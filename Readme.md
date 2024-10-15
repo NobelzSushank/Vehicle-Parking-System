@@ -1,7 +1,8 @@
 ## Vehicle Parking System
-    > Install the required packages by running:
-        ```bash
-        pip install -r requirements.txt
+> Install the required packages by running:
+```bash
+pip install -r requirements.txt
+
     > Ensure that the MySQL server is running.
     > Make the necessary changes in the DatabaseOperation.py file for the following parameters:
         * host
