@@ -14,6 +14,6 @@ pip install -r requirements.txt
 ## Converting to .exe
 
 > To convert the application to an executable file, run the following command:
-    ```bash
-    auto-py-to-exe
-    ```
+```bash
+auto-py-to-exe
+```
