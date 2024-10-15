@@ -1,8 +1,16 @@
 ## Vehicle Parking System
-    > Install `**` requirements.txt `**` using command `pip install requirements`
-    > Make sure the mysql server is running
-    > Make necessary changes in **DatabaseOperation.py** file for `host, database name, user, and password`
+    > Install the required packages by running:
+        ```bash
+        pip install -r requirements.txt
+    > Ensure that the MySQL server is running.
+    > Make the necessary changes in the DatabaseOperation.py file for the following parameters:
+        * host
+        * database name 
+        * database user
+        * database password
 
 ## Converting to .exe
 
-    > In command run `auto-py-to-exe` and perform the necessary action to create the .exe file of vehicle management system.
+    > To convert the application to an executable file, run the following command:
+        ```bash
+        auto-py-to-exe
